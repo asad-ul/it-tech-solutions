@@ -1,3 +1,3 @@
 import sys
 def handler(event, context):
-    return 'Hello from My Lambda 3'
+    return 'Hello from My Lambda 23'
